@@ -1,5 +1,14 @@
 # my-todos-list
 
+## Description
+
+An app that is simple and awesome to organize your tasks with very easy to use interface. It can help you to make list of your tasks.
+
+## Functionality
+
+Users should be able to add and delete any todo item.
+
+
 ## Getting Started
 ### Prerequisites
 [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) should be installed.
