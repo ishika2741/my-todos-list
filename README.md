@@ -7,7 +7,7 @@
 ### Clone the repository
 
 ```sh
-git clone https://
+git clone https://github.com/ishika2741/my-todos-list.git
 ```
 
 ### Install dependencies
